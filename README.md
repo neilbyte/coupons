@@ -52,7 +52,12 @@ Insight: This demographic shows a high propensity for coupon usage, suggesting t
 ![Alt text](images/bar_coupon_based_on_budget_conscious_dining.png)
 
 
-3. Mid-Range Dining: Restaurant(20-50)
+3. Mid-Range Dining: Restaurant(20-50):
+Mid-Range Restaurant coupons is another category of coupons we would like to analyze among drivers.
+Overall Acceptance: Approximately 55% of all offered coupons were accepted.
+
+![Alt text](images/midrange_restaurant_coupon.png)
+
 Restaurant(20-50) Segment & Marital Context: Analysis of mid-range dining revealed that Divorced and Widowed drivers often have the lowest acceptance rates.
 
 ![Alt text](images/midrange_restaurant_coupon_based_on_marital_status.png)
