@@ -18,8 +18,8 @@ Matplotlib & Seaborn: For statistical visualizations, including distribution plo
 🗂️ Data Cleaning & Strategy
 "Results and decision making that emanate from statistical analysis can only be as good as the quality of the data". Following this principle, the following steps were taken:
     Handling Extreme Sparsity: The car column was missing ~99% of its data. These were filled with "Unknown" to preserve the rows for other analyses.
-    The 5% Rule: For other critical columns like CoffeeHouse and Bar, missing values represented only ~1% of the total dataset. Following industry rule-of-thumb, these rows were deleted as the sample size reduction was negligible.
-    Standardization: Categorical visit frequencies (e.g., '1~3', 'less1') were mapped into logical groups for comparative analysis.
+    The 5% Rule: For other critical columns like CoffeeHouse and Bar, missing values represented only +1% of the total dataset. Following industry rule-of-thumb, these rows were deleted as the sample size reduction was negligible.
+    Standardization: Categorical visit frequencies (e.g., '1-3', 'less1') were mapped into logical groups for comparative analysis.
 
 
 📊 Key Findings
