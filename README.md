@@ -70,6 +70,7 @@ The "Heading Home" Effect: Within the Divorced/Widowed group, those heading Home
 
 Income Heatmap: For the "Lonely/Heading Home" cluster, we utilized a Seaborn Heatmap to visualize how income levels influence acceptance, identifying specific wealth brackets that are more price-sensitive or value-driven for mid-range dining. We discover that divorcers/widowers with income in the range of 25K - 37.5K per year who are heading home have an extremely high rate of coupon acceptance. 6 out 7 coupons offered to them are accepted, which yields an acceptance rate of 85%. That is surprisingly high rate.
 
+![Alt text](images/midrange_restaurant_coupon_based_on_non_married_n_income.png)
 
 🚀 Usage
 Clone the repository:
